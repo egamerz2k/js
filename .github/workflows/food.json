@@ -1,0 +1,17 @@
+{
+  "Low Fodmap": {
+    "Vegetables and Legumes": [
+      "Alfalfa",
+      "Bamboo shoots",
+      // ... other food items ...
+    ]
+  },
+  "High Fodmap": {
+    "Vegetables and Legumes": [
+      "Artichoke",
+      "Asparagus",
+      // ... other food items ...
+    ]
+  }
+}
+
